@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Roblox Account Manager for Linux
+Comment=Multi-instance Roblox account manager for Linux
+Exec=python3 /path/to/main.py
+Icon=roblox
+Type=Application
+Categories=Utility;
+Terminal=false
